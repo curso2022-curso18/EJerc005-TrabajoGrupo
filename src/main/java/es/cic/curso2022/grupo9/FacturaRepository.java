@@ -7,19 +7,19 @@ public class FacturaRepository {
 		throw new UnsupportedOperationException("Crear facturas no implementado tadavía");
 	}
 	public Factura read(long Id) {
-		throw new UnsupportedOperationException("No implementado todavía");
+		throw new UnsupportedOperationException("Leer factua no implementado todavía");
 
 	}
 	public List<Factura> readAll(){
-		throw new UnsupportedOperationException("No implementado todavía");
+		throw new UnsupportedOperationException("Leer todas las facturas no implementado todavía");
 
 	}
 	public void update(Factura factura) {
-		throw new UnsupportedOperationException("No implementado todavía");
+		throw new UnsupportedOperationException("Actualizar facturas no implementado todavía");
 
 	}
 	public void delete(long Id) {
-		throw new UnsupportedOperationException("No implementado todavía");
+		throw new UnsupportedOperationException("Borrar facturas no implementado todavía");
 
 	}
 }

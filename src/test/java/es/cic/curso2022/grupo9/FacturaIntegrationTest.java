@@ -36,8 +36,8 @@ public class FacturaIntegrationTest {
 	@Test
 	void testRead() {
 		Factura factura = new Factura();
-		long id = facturaController.create(factura);
-		facturaController.read(id);
+		//long id = facturaController.create(factura);
+		facturaController.read(1);
 		assertNotNull(factura);
 	}
 
@@ -56,8 +56,8 @@ public class FacturaIntegrationTest {
 	@Test
 	void testDelete() {
 		Factura factura = new Factura();
-		long id = facturaController.create(factura);
-		facturaController.delete(id);
+		//long id = facturaController.create(factura);
+		facturaController.delete(1);
 	}
 
 }
