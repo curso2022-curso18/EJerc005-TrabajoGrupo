@@ -1,0 +1,8 @@
+TIene que haber un solo repositorio que tenga una sola persona del grupo.
+-----ENUNCIADO-----
+Tratar facturas y ciudades, 
+Campos de cada entidad:
+---Id, Nombre, Propietario....
+---Hacer test unitarios de la parte de Controller y de Servicios
+---Hacer test de integración de Repository
+---Hacer una estimación de cuantos periodos de 15 minutos creemos que nos llevará
